@@ -109,8 +109,6 @@ def getFingerCount(mask, center, radius, scale=2.0):
     return fingercount - 1
 
 
-getFingerCount.flag = 0
-
 # 실행
 showcam()
 
