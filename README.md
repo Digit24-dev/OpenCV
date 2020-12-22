@@ -21,8 +21,8 @@ ___
 
 
 Languages I can do:
-*Python [beginning]
-*C/C++  [beginning]
+ * Python [beginning]
+ * C/C++  [beginning]
 
 |Header|Description|
 |:--:|:--:|
