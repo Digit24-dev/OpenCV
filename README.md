@@ -9,9 +9,9 @@ to make *README.md*, using ~~markdown~~ code.
 
 ___
 
-'''py
+```py
 print("Hello World!")
-'''
+```
 
 ___
 
