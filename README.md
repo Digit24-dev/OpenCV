@@ -5,7 +5,7 @@ ___
 
 ## < Practice >
 
-to make *README.md*, using ~~markdown~~ code.
+to make *README.md*, using **~~markdown~~** code.
 
 ___
 
@@ -21,11 +21,11 @@ ___
 
 
 Languages I can do:
- * Python [beginning]
+ * **Python** [beginning]
  * C/C++  [beginning]
 
 |Header|Description|
 |:--:|:--:|
 |Cell1|Cell2|
-|digi24|good|
+|**digi24**|good|
 |Cell1|Cell2|
